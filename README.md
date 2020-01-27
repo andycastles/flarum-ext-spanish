@@ -1,4 +1,5 @@
 # flarumes
-Translates Flarum and its bundled extensions to Spanish http://flarum.es
+Translates Flarum and its bundled extensions to Spanish.
 
-Language Pack Using the abandoned repository https://github.com/FlarumES/Spanish
+Forked from darkfoxdeveloper/flarum-ext-spanish
+Previously forked from FlarumES/Spanish
